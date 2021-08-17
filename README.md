@@ -1,4 +1,4 @@
-# hmplayer
+# oo Music
 
 ## Project setup
 ```
