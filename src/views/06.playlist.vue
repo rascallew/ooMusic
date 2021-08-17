@@ -209,7 +209,7 @@ export default {
         id:this.$route.query.query
       }
     }).then(res=>{
-      //  console.log(res);
+      // console.log(res);
       this.playlist = res.data.playlist
     }),
     //获取评论
